@@ -1,8 +1,8 @@
 {
-  "Enjoy": {
-    "Moonstone": 2000
+  "OPENGAME": {
+    "Moonstone": 1500
   },
-  "baddie": {
-    "MysticCoins": 2500
+  "FREYASOON": {
+    "MysticCoins": 3000
   }
 }
